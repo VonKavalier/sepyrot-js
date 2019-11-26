@@ -10,11 +10,4 @@ JS implementation of the [sepyrot script](https://github.com/VonKavalier/sepyrot
 
 ## Example form
 
-```html
-<div>
-  <textarea name="sepyrot_input_clear"></textarea>
-  <button onclick="sepyrot_encode()">Encode</button>
-  <button onclick="sepyrot_decode()">Decode</button>
-  <textarea name="sepyrot_input_encoded"></textarea>
-</div>
-```
+[Check this CodePen](https://codepen.io/catabasis/pen/pooXNvJ)
